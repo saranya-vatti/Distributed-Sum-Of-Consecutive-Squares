@@ -1,6 +1,8 @@
-# Proj1
+# Proj1 - Distributed Sum of Consecutive Squares
 
-## Group members
+## Goal: The input provided (as command line to your program, e.g. my app) will be two numbers: N and k. The overall goal of your program is to find all k consecutive numbers starting at 1 and up to N, such that the sum of squares is itself a perfect square (square of an integer) using Elixir and the actor model to build a good solution to this problem that runs well on multi-core machines.
+
+## Team members
 
 * Prahlad Misra [UFID: 00489999]
 * Saranya Vatti [UFID: 29842706]
